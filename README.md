@@ -1,2 +1,24 @@
 # Black-Friday-Sales-Prediction
-About Practice Problem: Black Friday Nothing ever becomes real till it is experienced.  -John Keats  While we don't know the context in which John Keats mentioned this, we are sure about its implication in data science. While you would have enjoyed and gained exposure to real world problems in this challenge, here is another opportunity to get your hand dirty with this practice problempowered by Analytics Vidhya.  This hackathon aims to provide a professional setup to showcase your skills and compete with their peers, learn new things and achieve a steep learning curve.
+
+# Problem Statement
+A retail company “ABC Private Limited” wants to understand the customer purchase behaviour (specifically, purchase amount) against various products of different categories. They have shared purchase summary of various customers for selected high volume products from last month.
+The data set also contains customer demographics (age, gender, marital status, city_type, stay_in_current_city), product details (product_id and product category) and Total purchase_amount from last month.
+
+Now, they want to build a model to predict the purchase amount of customer against various products which will help them to create personalized offer for customers against different products.
+
+# Data:
+https://datahack.analyticsvidhya.com/contest/black-friday/#ProblemStatement
+1. Variable	Definition
+2. User_ID	User ID
+3. Product_ID	Product ID
+4. Gender	Sex of User
+5. Age	Age in bins
+6. Occupation	Occupation (Masked)
+7. City_Category	Category of the City (A,B,C)
+8. Stay_In_Current_City_Years	Number of years stay in current city
+9. Marital_Status	Marital Status
+10. Product_Category_1	Product Category (Masked)
+11. Product_Category_2	Product may belongs to other category also (Masked)
+12. Product_Category_3	Product may belongs to other category also (Masked)
+13. Purchase	Purchase Amount (Target Variable)
+
